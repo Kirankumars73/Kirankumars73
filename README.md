@@ -20,7 +20,7 @@
 
   
  ## 📈 My Graph
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirankumars73&theme=react-dark)]
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirankumars73&theme=react-dark)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
